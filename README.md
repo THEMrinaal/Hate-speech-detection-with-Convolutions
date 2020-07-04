@@ -1,9 +1,4 @@
 # 🤬 Hate Speech Detection 🤬
-
-## Mentors 👨‍🏫:
-- <a href="https://github.com/themrinaal">@Mrinal</a>
-- <a href="https://github.com/atol">@Alice</a>
-
 ## Overview 🕵️:
 This project focus on leveraging Machine Learning especially NLP (Natural Language Processing) to identify hate speech to prevent cyberbullying and harassing. With the advancement of internet and numerous social media platform burgeoning where people all around the globe can come
 and interact, comes a responsibility of keeping platform clean, respectful and follow the best NETIQUETTE (Internet Etiquettes)
